@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1577695894,
+	"version": 1577711267,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,7 @@
 		"images/spawnenemy1-sheet0.png",
 		"images/background2000-sheet0.png",
 		"images/threedracing-sheet0.png",
+		"images/sprite-sheet0.png",
 		"media/hurt.m4a",
 		"media/hurt.ogg",
 		"icon-16.png",
